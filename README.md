@@ -15,7 +15,7 @@
  
  ## Código
  * [Angular](https://github.com/RodolfoTorresContreras/Angular)
- * [Spring Boot](https://github.com/RodolfoTorresContreras/Spring-Boot_Angular/tree/main/Backend/spring-boot-backend-apirest)
+ * [Spring Boot](https://github.com/RodolfoTorresContreras/Spring-Boot_Angular/tree/main/src)
  
  ## Descripcion 
  
