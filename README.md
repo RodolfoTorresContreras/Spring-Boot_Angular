@@ -2,7 +2,7 @@
  
  ## Aplicacion
 * [Angular Cliente Web usar esta](https://sistema-clientes-angularspring.web.app/login)
-* [Aplicacion Rest Spring Boot endPoint](https://sistema-clientes-spring-angula.herokuapp.com)
+* [Aplicacion Rest Spring Boot endPoint](https://sistema-clientes-spring-angula.herokuapp.com/api/clientes)
 ### Inicio de sesion
 * Usuario normal: rodo
 * Password: 12345
